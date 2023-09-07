@@ -1,0 +1,10 @@
+.topnav{
+    background-color: black;
+    color:antiquewhite;
+    height: 10vh;
+    display:flex;
+    align-items: center;
+}
+.in{
+    margin-left: 2vw;
+}
